@@ -60,6 +60,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tacotakedown/tacotakedown/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/tacotakedown/tacotakedown/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
