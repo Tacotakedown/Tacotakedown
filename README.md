@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api?username=tacotakedown&hide_title=false&hide_rank=false&card_width=420&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api?username=tacotakedown&hide_title=false&hide_rank=false&rank_icon=github&card_width=420&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="160" alt="stats graph"  />
 
   <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api/top-langs?username=tacotakedown&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=8&theme=transparent&hide_border=true&hide_progress=true" height="160" alt="languages graph"  />
 </div>
