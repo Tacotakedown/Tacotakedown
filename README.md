@@ -65,4 +65,4 @@
 <img src="https://raw.githubusercontent.com/tacotakedown/tacotakedown/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <img src="https://wakatime.com/share/@decbbf65-6f71-496b-9844-3a4fa13618f5/c804686d-0d06-47bc-9935-dea14ecf5ed4.svg" alt="wakatime"/>
-###
+
