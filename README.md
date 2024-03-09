@@ -22,12 +22,8 @@
 ###
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCf7tAdqsBSeTU_V_eFfNbIQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="discordapp.com/users/279054249919381505" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=robogod9-us&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true"  alt="spotify"  />
+<!--   <img src="https://github-readme-steam-status.vercel.app/status/?steamid=76561198092044099"/> -->
 </div>
 
 ###
