@@ -32,5 +32,5 @@
 
 <img src="https://raw.githubusercontent.com/tacotakedown/tacotakedown/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-<img src="https://wakatime.com/share/@Tacotakedown/c804686d-0d06-47bc-9935-dea14ecf5ed4.svg" alt="wakatime"/>
+<img src="https://wakatime.com/share/@Tacotakedown/04f9a29a-17e0-4413-af2c-09aa405eb735.svg" alt="wakatime"/>
 
