@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api?username=tacotakedown&hide_title=false&hide_rank=false&rank_icon=github&card_width=421&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true" height="161" alt="stats graph"  />
 
-  <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api/top-langs?username=tacotakedown&locale=en&hide_title=false&layout=compact&card_width=421&langs_count=10&theme=transparent&hide_border=true" height="161" alt="languages graph"  />
+  <img src="https://github-readme-stats-git-master-tacotakedown.vercel.app/api/top-langs?username=tacotakedown&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=10&theme=transparent&hide_border=true" height="161" alt="languages graph"  />
 </div>
 
 ###
