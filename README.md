@@ -16,7 +16,7 @@
 
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=rust,c,cs,cpp,ts,js,html,css,sass,tailwind,react,solidjs,tauri,electron,vite,nodejs,bun,discordjs,wasm,py,visualstudio,vscode,blender,cmake,arduino,ae,au,ai,pr,ps" />
+   <img src="https://skillicons.dev/icons?i=rust,c,cs,cpp,ts,sass,tailwind,react,solidjs,tauri,electron,wasm,py" />
 </div>
 
 ###
