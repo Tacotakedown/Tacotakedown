@@ -11,5 +11,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tacotakedown&locale=en&hide_title=false&layout=compact&card_width=800&langs_count=20&theme=transparent&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
-<img src="https://wakatime.com/share/@Tacotakedown/04f9a29a-17e0-4413-af2c-09aa405eb735.svg" alt="wakatime"/>
+<img src="https://wakatime.com/share/@Taco_/04f9a29a-17e0-4413-af2c-09aa405eb735.svg" alt="wakatime"/>
 
