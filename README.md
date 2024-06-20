@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-   <img src="https://skillicons.dev/icons?i=rust,c,cs,cpp,ts,sass,tailwind,react,solidjs,tauri,electron,wasm,py" />
+   <img src="https://skillicons.dev/icons?i=linux,arch,bash,sublime,rust,cs,c,cpp,cmake,bun,ts,go,py" />
 </div
 
 ##
