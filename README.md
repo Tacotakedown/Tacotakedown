@@ -3,7 +3,7 @@
       <img align="center" src="https://lanyard.cnrad.dev/api/279054249919381505?borderRadius=5px&theme=dark&bg=00000000&hideSpotify=false&animated=true" width="500" alt="discord"/>
    </a> -->
       <div align="center">
-            <img src="https://skillicons.dev/icons?i=linux,arch,windows,apple" />
+            <img src="https://skillicons.dev/icons?i=arch" />
             <br/>
             <img src="https://skillicons.dev/icons?i=cpp,rust,c,cs,ts,go,py,html,sass,lua" />
              <br/>
