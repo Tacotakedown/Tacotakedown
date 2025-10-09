@@ -5,7 +5,6 @@
 <p>
   I build things in C++ and Rust.<br>
   CS student based in Arizona 🌵<br>
-  Passionate about clean, organized, and safe code.
 </p>
 
 ---
@@ -14,25 +13,6 @@
 <img src="https://skillicons.dev/icons?i=cpp,rust,c,cs,ts,go,py,html,sass,lua" /><br/>
 <img src="https://skillicons.dev/icons?i=cmake,dotnet,react,solidjs,tailwindcss,vite,qt,tauri,electron,wasm" /><br/>
 <img src="https://skillicons.dev/icons?i=clion,webstorm,rider,neovim,vscodium" />
-
----
-
-###  Notable Projects
-
-<table>
-  <tr>
-    <td><strong><a href="https://github.com/infinity-MSFS">Infinity Launcher</a></strong></td>
-    <td>A custom installer for FS2024 freeware addons. Built with C++ using native OpenGL to deliver a fast, minimal, and highly performant user experience.</td>
-  </tr>
-  <tr>
-    <td><strong><a href="https://github.com/Ouroboros-Jets">Ouroboros Jets</a></strong></td>
-    <td>A simulation of modern jet systems and avionics. Written using a web frontend and a rust backend modeled closely after real aircraft for accuracy and extensibility. A bold and ongoing WIP.</td>
-  </tr>
-  <tr>
-        <td><strong><a href="https://github.com/Tacotakedown/CrosshairZ">CrosshairZ</a></strong></td>
-        <td>A universal Windows crosshair overlay written in C# that works in any game without hooking into the render API, ensuring compatibility with anti-cheat systems. A Wayland version is WIP</td>
-</tr>
-</table>
 
 ---
 
