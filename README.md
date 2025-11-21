@@ -3,7 +3,6 @@
 <h1>Hi, I'm Taco</h1>
 
 <p>
-  I build things in ASM when I can.<br>
   CS student based in Arizona 🌵<br>
 </p>
 
